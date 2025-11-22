@@ -1,1 +1,1 @@
-# Password-Generator-RUST-
+# CLI: Password Generator with Rust
